@@ -59,7 +59,7 @@ while ($row = @mysql_fetch_assoc($result)){
   // ADD TO XML DOCUMENT NODE
     $LatitudGPSS=$row['latitud'];
     $LongitudGPSS=$row['longitud'];
-}echo "$LatitudGPSS";
+}
 //header("Content-type: text/xml");
 //
 //// Start XML file, echo parent node
