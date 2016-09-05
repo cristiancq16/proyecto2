@@ -1,6 +1,5 @@
-<?php
-
-  $servername = "127.0.0.1";
+ <?php
+ $servername = "127.0.0.1";
   $username = "root";
   $password = "";
   $dbname = "rastreovehicular";
